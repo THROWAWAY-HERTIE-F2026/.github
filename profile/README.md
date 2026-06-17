@@ -22,6 +22,7 @@ org; updates on every release.
 | --- | --- | --- |
 | [welcome](https://github.com/THROWAWAY-HERTIE-F2026/welcome) | public | Course front door - open a Join issue to enrol |
 | [classroom-config](https://github.com/THROWAWAY-HERTIE-F2026/classroom-config) | private | PRIVATE cohort config - roster (students.csv). No PII leaves here. |
+| [materials](https://github.com/THROWAWAY-HERTIE-F2026/materials) | private | Released course materials (enrolled students only) |
 | [throwaway-hertie-f2026.github.io](https://github.com/THROWAWAY-HERTIE-F2026/throwaway-hertie-f2026.github.io) | public | Cohort course website (auto-deployed on push) |
 
 ---
